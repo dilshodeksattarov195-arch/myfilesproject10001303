@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorcecrypt",
+        "uuid": 5408753,
+        "checksum": "zb8ubo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
